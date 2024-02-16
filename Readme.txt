@@ -1,11 +1,1 @@
-For running the redcap_import.ipynb
-- set envirnment based on requirements.txt or can follow below commands to create the environment name as redcap-import-env and kernel name as redcap-import
-conda create --name redcap-import-env 
-Conda activate redcap-import-env 
-Conda install ipykernel
-python -m ipykernel install --user --name  redcap-import
-Conda install numpy
-Conda install pandas
-Conda install requests
-
-- under the clinical_dashboards folder add a folder named csv and place downloaded the Synthea csv files(patient.csv, medication.csv and condition.csv) under the csv folder
+This repository contains technical notes from each team member documenting their contributions and insights throughout the project. Below is a brief overview of the contents. These technical notes serve as a valuable resource for understanding each team member's involvement in the project, documenting our progress, and sharing insights from errors encountered. Feel free to explore each file for more detailed information on individual contributions. If you have any questions or need further clarification, please don't hesitate to reach out to the respective team member directly.
